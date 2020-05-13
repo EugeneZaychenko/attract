@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_header_height">192dp</dimen>
+    <dimen name="progress_bad_size">60dp</dimen>
+
+    <dimen name="default_middle_margin">16dp</dimen>
+    <dimen name="default_small_margin">8dp</dimen>
+
+    <dimen name="item_film_img_size">60dp</dimen>
+    <dimen name="film_info_img_size">200dp</dimen>
+    <dimen name="bar_default_height">80dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+
+
+    <dimen name="default_big_text_size">24sp</dimen>
+    <dimen name="default_middle_text_size">16sp</dimen>
+    <dimen name="default_small_text_size">12sp</dimen>
+</resources>
